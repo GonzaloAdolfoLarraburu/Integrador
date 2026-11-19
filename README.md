@@ -10,13 +10,13 @@ Aplicación de consola desarrollada en **Python 3** para la gestión, consulta y
 
 # Funcionalidades principales
 
-* Listado completo:** Visualización tabular de todos los países cargados desde el dataset.
-* Alta de países:** Incorporación de nuevos registros validando campos obligatorios, tipos numéricos y prevención de duplicados (normalizando mayúsculas y tildes).
-* Actualización de datos:** Modificación de población y superficie de un país existente con guardado automático en disco.
-* Búsqueda por nombre:** Coincidencia exacta o parcial sin distinción de mayúsculas ni acentos.
-* Filtrado multi-criterio:** Por continente, por rango de población o por rango de superficie en $\text{km}^2$.
-* Ordenamiento configurable:** Por nombre, población o superficie en sentido ascendente o descendente mediante algoritmo de burbuja sobre copia de datos.
-* Estadísticas generales:** País con mayor y menor población, promedio de población, promedio de superficie y cantidad de países por continente.
+* Listado completo: Visualización tabular de todos los países cargados desde el dataset.
+* Alta de países: Incorporación de nuevos registros validando campos obligatorios, tipos numéricos y prevención de duplicados (normalizando mayúsculas y tildes).
+* Actualización de datos: Modificación de población y superficie de un país existente con guardado automático en disco.
+* Búsqueda por nombre: Coincidencia exacta o parcial sin distinción de mayúsculas ni acentos.
+* Filtrado multi-criterio: Por continente, por rango de población o por rango de superficie en $\text{km}^2$.
+* Ordenamiento configurable: Por nombre, población o superficie en sentido ascendente o descendente mediante algoritmo de burbuja sobre copia de datos.
+* Estadísticas generales: País con mayor y menor población, promedio de población, promedio de superficie y cantidad de países por continente.
 
 # Estructura del Repositorio
 
@@ -37,7 +37,7 @@ Alemania,83149300,357022,Europa
 
 # Requisitos e Instrucciones de Uso
 
-* Requisitos previos:** Tener instalado **Python 3.x** (no requiere librerías externas; utiliza únicamente el módulo estándar `csv`).
+* Requisitos previos: Tener instalado **Python 3.x** (no requiere librerías externas; utiliza únicamente el módulo estándar `csv`).
 * Clonar o descargar el repositorio:
 * Ejecutar el programa: python integrador.py
 * (En sistemas Linux/macOS puede requerir `python3 integrador.py`).
