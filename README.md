@@ -1,6 +1,6 @@
-* Trabajo Práctico Integrador (TPI) — Programación 1
+# Trabajo Práctico Integrador (TPI) — Programación 1
 
-* Tecnicatura Universitaria en Programación — Universidad Tecnológica Nacional (UTN)
+# Tecnicatura Universitaria en Programación — Universidad Tecnológica Nacional (UTN)
 
 # Gestión de Datos de Países en Python
 
@@ -125,4 +125,4 @@ Europa: 1
 
 * Matias Ramirez
 * Gonzalo Larraburú
-El proyecto fue diseñado, desarrollado, probado y documentado de manera conjunta y equitativa por ambos integrantes del equipo.
+* El proyecto fue diseñado, desarrollado, probado y documentado de manera conjunta y equitativa por ambos integrantes del equipo.
