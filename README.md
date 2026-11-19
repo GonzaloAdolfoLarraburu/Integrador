@@ -118,11 +118,12 @@ Europa: 1
 
 # Documentación Académica y Presentación
 
-* Informe Técnico (PDF):** Disponible en la raíz de este repositorio bajo el nombre `informe` (incluye marco teórico, diagrama de flujo de operaciones, decisiones técnicas, dificultades y conclusiones).
-* Defensa del Proyecto:** Presentación oral y demostración en vivo del funcionamiento del sistema en consola.
+* Informe Técnico (PDF): Disponible en la raíz de este repositorio bajo el nombre `informe` (incluye marco teórico, diagrama de flujo de operaciones, decisiones técnicas, dificultades y conclusiones).
+* Defensa del Proyecto: Presentación oral y demostración en vivo del funcionamiento del sistema en consola.
 
 # Integrantes
 
 * Matias Ramirez
 * Gonzalo Larraburú
-* El proyecto fue diseñado, desarrollado, probado y documentado de manera conjunta y equitativa por ambos integrantes del equipo.
+
+El proyecto fue diseñado, desarrollado, probado y documentado de manera conjunta y equitativa por ambos integrantes del equipo.
